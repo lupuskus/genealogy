@@ -10,4 +10,5 @@
 | ------ | ------------------- | ------ |
 | Father | [[Wolfgang Kuster]] |        |
 | Mother | [[Susanne Kuster]]  |        |
+| Spouse | [[Chris Freund]]    |        |
 | Child  | [[Louisa Freund]]   |        |

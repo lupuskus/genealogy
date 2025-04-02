@@ -1,1 +1,1 @@
-Entry on mac
+Conflict resolved on mac

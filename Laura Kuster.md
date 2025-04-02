@@ -3,11 +3,11 @@
 
 |      | Date     | Source |
 | ---- | -------- | ------ |
-| Born | 19920710 |        |
+| Born | 19950417 |        |
 | Died |          |        |
 
 |        | Person              | Source |
 | ------ | ------------------- | ------ |
 | Father | [[Wolfgang Kuster]] |        |
 | Mother | [[Susanne Kuster]]  |        |
-| Child  |                     |        |
+| Child  | [[Louisa Freund]]   |        |
